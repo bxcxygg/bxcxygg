@@ -4,7 +4,7 @@
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
-### Hi 👋, I'm fringelin.
+### Hi 👋, I'm bxcxygg.
 - 🌱 I'm living in GuangZhou.
 - 🔭 Working on Micro Service、Web、BlockChain and so on. 
 - 📫 How to reach me: 3200828584@qq.com.
